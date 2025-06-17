@@ -1,0 +1,8 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+.lang-btn.active {
+    background-color: #4f46e5;
+    color: white;
+    font-weight: 600;
+}

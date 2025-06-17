@@ -1,0 +1,16 @@
+{
+    "en": {
+        "page_title": "Welcome to Our Website!",
+        "title": "Welcome to Our Website!",
+        "intro": "This is an example of a dynamic multilingual page. Click the buttons above to switch languages without reloading.",
+        "section_title": "About This Method",
+        "section_content": "We use JavaScript to fetch a JSON file and translate the page. This is efficient, organized, and easy to maintain."
+    },
+    "fr": {
+        "page_title": "Bienvenue sur Notre Site Web !",
+        "title": "Bienvenue sur Notre Site Web !",
+        "intro": "Ceci est un exemple de page multilingue dynamique. Cliquez sur les boutons ci-dessus pour changer de langue sans recharger.",
+        "section_title": "À Propos de Cette Méthode",
+        "section_content": "Nous utilisons JavaScript pour récupérer un fichier JSON et traduire la page. C'est efficace, organisé et facile à maintenir."
+    }
+}
