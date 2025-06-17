@@ -22,10 +22,10 @@ This project demonstrates how to create a simple, dynamic multilingual website u
 |-- style.css
 |-- script.js
 |-- translations.json
-* **`index.html`**: This file contains the basic HTML structure. Elements that need to be translated have a `data-lang-key` attribute, which is used by the JavaScript to identify them.
-* **`style.css`**: This file contains the styling for the page, including the "active" state for the currently selected language button.
-* **`script.js`**: This file contains all the logic. It fetches the translations from `translations.json`, finds all elements with a `data-lang-key`, and updates their content based on the selected language.
-* **`translations.json`**: A simple JSON file that holds the key-value pairs for all the text in each supported language.
+   * **`index.html`**: This file contains the basic HTML structure. Elements that need to be translated have a `data-lang-key` attribute, which is used by the JavaScript to identify them.
+   * **`style.css`**: This file contains the styling for the page, including the "active" state for the currently selected language button.
+   * **`script.js`**: This file contains all the logic. It fetches the translations from `translations.json`, finds all elements with a `data-lang-key`, and updates their content based on the selected language.
+   * **`translations.json`**: A simple JSON file that holds the key-value pairs for all the text in each supported language.
 
 ---
 ## 🛠️ How to Use
